@@ -2594,6 +2594,7 @@ img.mfp-img {
     top: 45%;
     z-index: 999;
     width: 34px;
+	display:none;
 }
 .social.social-sidebar a{ margin-bottom:5px;}
 .text-right{text-align:left;}
