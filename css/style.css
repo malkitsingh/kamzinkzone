@@ -2772,3 +2772,7 @@ div.fadeShow-container div.image img {
 #conventions .cbp-caption-zoom .cbp-caption-activeWrap{background-color: rgba(201, 0, 9, 0.9);}
 #conventions .cbp-l-inline{ border: 1px solid #c90006; background:#000;}
 #conventions .cbp-l-caption-desc{ color:#fff;} 
+
+
+.follow-div #atftbx p{ display:none !important;}
+.follow-div #atftbx div.addthis_toolbox.addthis_default_style{float: none; width: 180px;margin: 0 auto;}
