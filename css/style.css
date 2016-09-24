@@ -2763,3 +2763,9 @@ div.fadeShow-container div.image img {
 #artist .cbp-caption-zoom .cbp-caption-activeWrap{background-color: rgba(201, 0, 9, 0.9);}
 #artist .cbp-l-inline{ border: 1px solid #c90006; background:#000;}
 #artist .cbp-l-caption-desc{ color:#fff;} 
+
+
+
+#conventions .cbp-caption-zoom .cbp-caption-activeWrap{background-color: rgba(201, 0, 9, 0.9);}
+#conventions .cbp-l-inline{ border: 1px solid #c90006; background:#000;}
+#conventions .cbp-l-caption-desc{ color:#fff;} 
